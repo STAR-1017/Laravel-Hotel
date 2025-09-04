@@ -262,7 +262,7 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 ## 👨‍💻 Developer
 
-**Wailan Tirajoh**
+**STAR-1017**
 
 - GitHub: [@STAR-1017](https://github.com/STAR-1017)
 
