@@ -39,7 +39,7 @@ EXIT;
 1. **Clone & Configure**
 
 ```bash
-git clone https://github.com/WailanTirajoh/Laravel-Hotel.git
+git clone https://github.com/STAR-1017/Laravel-Hotel.git
 cd Laravel-Hotel
 cp .env.example .env
 ```
@@ -211,7 +211,7 @@ Access the admin dashboard with seeded demo accounts:
 
 ## 🗄️ Database Schema
 
-![ERD](https://github.com/WailanTirajoh/Laravel-Hotel/blob/main/erd.PNG?raw=true)
+![ERD](https://github.com/STAR-1017/Laravel-Hotel/blob/main/erd.PNG?raw=true)
 
 ### Key Relationships
 
@@ -264,9 +264,7 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 **Wailan Tirajoh**
 
-- GitHub: [@WailanTirajoh](https://github.com/WailanTirajoh)
-- Instagram: [@tirajoh](https://www.instagram.com/tirajoh/)
-- Facebook: [tirajohw](https://www.facebook.com/tirajohw/)
+- GitHub: [@STAR-1017](https://github.com/STAR-1017)
 
 ---
 
